@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <hazardMap
+    IMT="SA(0.5)"
+    gsimTreePath=""
+    investigationTime="50.0"
+    poE="0.1"
+    sourceModelTreePath=""
+    >
+        <node iml="0.3995473293289779" lat="-9.4438" lon="147.1803"/>
+    </hazardMap>
+</nrml>
